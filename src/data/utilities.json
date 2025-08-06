@@ -1,0 +1,20 @@
+[
+  {
+    "id": "electricity",
+    "title": "Electricity",
+    "icon": "\uD83D\uDD0C",
+    "price": 32,
+    "unit": "kWh",
+    "lastUpdated": "2025-08-06",
+    "details": "Electricity prices are regulated by NEPRA and may vary by slab."
+  },
+  {
+    "id": "water",
+    "title": "Water",
+    "icon": "\uD83D\uDCA7",
+    "price": 245,
+    "unit": "month",
+    "lastUpdated": "2025-08-06",
+    "details": "Water charges depend on location and meter type."
+  }
+]
